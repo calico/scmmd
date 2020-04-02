@@ -1,0 +1,2 @@
+wget "https://storage.googleapis.com/calico-website-mca-storage/kang_2017_stim_pbmc.h5ad" -O kang_2017_stim_pbmc.h5ad
+scmmd --data kang_2017_stim_pbmc.h5ad --out_path ./ --groupby cell --contrast stim --representation X_pca

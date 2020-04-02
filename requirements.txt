@@ -1,0 +1,7 @@
+torch>=1.2.0
+anndata>=0.6.22.post1
+scanpy>=1.4
+numpy>=1.17.4
+pandas>=0.23.4
+tqdm>=4.35.0
+torch-two-sample>=0.1
