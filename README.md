@@ -42,8 +42,8 @@ bioRxiv 2020.03.05.979112; doi: https://doi.org/10.1101/2020.03.05.979112
 
 If you have any questions or comments, please feel free to email me.
 
-Jacob C. Kimmel, PhD  
-[jacobkimmel+velodyn@gmail.com](mailto:jacobkimmel+velodyn@gmail.com)  
+Jacob C. Kimmel  
+[jacobkimmel+scmmd@gmail.com](mailto:jacobkimmel+scmmd@gmail.com)  
 Calico Life Sciences, LLC
 
 ## Installation
