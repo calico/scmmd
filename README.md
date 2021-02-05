@@ -18,8 +18,8 @@ As an example application, we have used the MMD to compute a "magnitude of aging
 
 ## Citation
 
-We have released `velodyn` in association with a recent pre-print.
-Please cite our pre-print if you find `velodyn` useful for your work.
+We have released `scmmd` in association with a recent pre-print.
+Please cite our pre-print if you find `scmmd` useful for your work.
 
 
 [**Differentiation reveals the plasticity of age-related change in murine muscle progenitors**](https://www.biorxiv.org/content/10.1101/2020.03.05.979112v1)  
