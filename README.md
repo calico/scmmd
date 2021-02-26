@@ -15,6 +15,7 @@ We use the MMD to compute (1) a metric of the magnitude of difference between tw
 As an example application, we have used the MMD to compute a "magnitude of aging" by comparing cell populations of the same cell type taken from young and aged animals.
 
 `scMMD` is designed to integrate with the `scanpy` ecosystem and `anndata` structures.
+`scMMD` also provides support for GPU acceleration using `torch`.
 
 ## Citation
 
